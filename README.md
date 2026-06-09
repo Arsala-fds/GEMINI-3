@@ -33,4 +33,4 @@ Get your free Gemini API key at: https://aistudio.google.com
 
 ## 📸 Demo
 
-(Add a screenshot of your app here)
+![App Screenshot](demo.png)
